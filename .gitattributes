@@ -1,0 +1,4 @@
+# Signed bytes: never convert line endings.
+latest.json -text
+latest.json.minisig -text
+release.pub -text
